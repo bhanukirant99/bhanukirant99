@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Portfolio: https://brdhanani.github.io
+### Portfolio: https://bhanu-kiran-portfolio.netlify.app/
 
 - 🌱 I’m currently learning TypeScript and NextJS
 - ⚡ Fun fact: I Like to Play Chess, Explore Tech and Watch Movies
