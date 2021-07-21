@@ -1,5 +1,9 @@
 ### Hi there 👋
+
+### Portfolio: https://brdhanani.github.io
+
 - 🌱 I’m currently learning TypeScript and NextJS
+- ⚡ Fun fact: I Like to Play Chess, Explore Tech and Watch Movies
 
 
 ### 👨‍💻 Languages and Tools
@@ -12,7 +16,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
-[![Python](https://img.shields.io/badge/-Electron-gray?style=flat&logo=python&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
+[![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
 [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
 [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
 
@@ -23,13 +27,13 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
-[![Django](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=django&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99)
+[![Django](https://img.shields.io/badge/-Django-blue?style=flat&logo=django&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/bhanukirant99)](https://gitlab.com/bhanukirant99) 
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99)
-[![Figma](https://img.shields.io/badge/-Angular-red?style=flat&logo=figma&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
+[![Figma](https://img.shields.io/badge/-Figma-red?style=flat&logo=figma&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99) 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/bhanukirant99)](https://github.com/bhanukirant99)
-[![AdobeXD](https://img.shields.io/badge/-MobX-gray?style=flat&logo=adobexd&link=https://github.com/bhanukirant99)](https://gitlab.com/bhanukirant99) 
+[![AdobeXD](https://img.shields.io/badge/-AdobeXD-gray?style=flat&logo=adobexd&link=https://github.com/bhanukirant99)](https://gitlab.com/bhanukirant99) 
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhanukirant99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
@@ -50,5 +54,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
